@@ -1,6 +1,0 @@
-<html>
-	<body>
-		<h1>practica modulo 0	</h1>
-
-	</body>
-</html>
